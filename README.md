@@ -18,6 +18,7 @@ The ScoreBoard program is an interactive challenge that tests your understanding
 To tackle the ScoreBoard challenge and other Java exercises:
 
 1. Clone this repository to your local machine:
+
 *git clone https://github.com/YourUsername/JavaLessons.git*
 2. Open the cloned repository in your favorite Java IDE or editor.
 3. Navigate to the specific lesson or challenge you want to work on.
