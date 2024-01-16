@@ -24,12 +24,18 @@ To tackle the ScoreBoard challenge and other Java exercises:
 4. Read the instructions provided in comments or accompanying files to understand the problem.
 5. Start coding your solution!
 
-## ScoreBoard Challenge Instructions
+### ScoreBoard Challenge Instructions
 Level 1: Declare the missing player variables and complete the constructor.
+
 Level 2: Add the missing getter and setter methods for the player variables.
+
 Level 3: Complete the updateScore method and other missing logic to manage the scores correctly.
+
 Challenge: Refactor the updateScore method using the template from the last lesson to handle score updates more efficiently.
-Contributing
+
+
+
+### Contributing
 
 Your contributions are what make the community such an incredible learning resource.
 If you have any improvements or additional challenges to add, please follow these steps:
