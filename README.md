@@ -20,10 +20,15 @@ To tackle the ScoreBoard challenge and other Java exercises:
 1. Clone this repository to your local machine:
 
 *git clone https://github.com/YourUsername/JavaLessons.git*
+
 2. Open the cloned repository in your favorite Java IDE or editor.
+
 3. Navigate to the specific lesson or challenge you want to work on.
+
 4. Read the instructions provided in comments or accompanying files to understand the problem.
+
 5. Start coding your solution!
+
 
 ### ScoreBoard Challenge Instructions
 Level 1: Declare the missing player variables and complete the constructor.
@@ -33,7 +38,6 @@ Level 2: Add the missing getter and setter methods for the player variables.
 Level 3: Complete the updateScore method and other missing logic to manage the scores correctly.
 
 Challenge: Refactor the updateScore method using the template from the last lesson to handle score updates more efficiently.
-
 
 
 ### Contributing
